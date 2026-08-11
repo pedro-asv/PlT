@@ -47,6 +47,6 @@ PlT/
 ---
 
 ### 👥 Autoria
-Projeto desenvolvido em dupla para a disciplina PIT (Projeto Integrador Transdisciplinar).
+Projeto desenvolvido em grupo para a disciplina PIT (Projeto Integrador Transdisciplinar).
 
 ---
